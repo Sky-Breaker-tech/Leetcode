@@ -11,7 +11,7 @@ class MyHashSet {
     }
 
     public void remove(int key) {
-        set[key] = false;
+        set[key] = false; 
     }
 
     public boolean contains(int key) {
