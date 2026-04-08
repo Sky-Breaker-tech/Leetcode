@@ -12,7 +12,7 @@ class UndergroundSystem {
         }
     }
 
-    // id → check-in info
+
     Map<Integer, Pair> checkInMap;
 
     // route → {totalTime, count}
